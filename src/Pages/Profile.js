@@ -1,0 +1,21 @@
+import React, {Component} from 'react'
+
+class Profile extends Component {
+
+    constructor(props){
+        super(props)
+    }
+
+  
+
+    render() {
+        return (
+            <div>
+                Hi, Jai
+            </div>
+        )
+    }
+
+}
+
+export default Profile
